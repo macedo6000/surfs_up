@@ -18,3 +18,4 @@ Based on the results below, comparing the summer month and winter month, the tem
 3. Lastly, the maximum temperatures for June is 85 and December, 83. Just a two degree difference.
 
 ## Summary
+The results for the weather analysis shows that a year-round surf/ice cream shop would be profitable. Based on the statistics the weather temperatures are steady for both June and December. Also, looking at the two additional queries created to track percipitation and stations most active in June and December show favorable results. 
